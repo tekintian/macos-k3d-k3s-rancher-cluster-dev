@@ -1,4 +1,4 @@
-# Macos K3D +k3s rancher 集群开发环境部署安装
+# macOS K3D +k3s rancher 集群开发环境部署安装
 
 ## k3d, kubectl, helm 安装升级脚本
 ~~~sh 
